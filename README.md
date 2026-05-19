@@ -21,8 +21,8 @@
 
 > Links point to external cloud storage (updated weekly).
 
-- [Windows 11 25H2 Russian](https://your-link-here/win11_25h2_ru.iso)  
-- [Windows 10 22H2 Russian](https://your-link-here/win10_22h2_ru.iso)
+- [Windows 11 25H2 Russian](https://drive.google.com/file/d/1wnGK3Bqv9ZZPhmqQnun6yarW6xZDMWF2/view?usp=drive_link)  
+- [Windows 10 22H2 Russian](https://drive.google.com/file/d/12s1bMRQq0yENCzDAotnJqcBFjRDoAvZI/view?usp=drive_link)
 
 **SHA-256 checksums** (verify after download):
 Win11_25H2_Russian_x64.iso a1b2c3... (update after upload)
